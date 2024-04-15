@@ -1,4 +1,4 @@
-**Buddy Heap Management System with Garbage Collection Simulations**
+#Buddy Heap Management System with Garbage Collection Simulations
 
 ### Introduction
 This project implements a Buddy Heap Management System along with simulations of two garbage collection mechanisms: Reference Counting and Mark-Sweep. Additionally, it utilizes graphs to represent mutually referenced data nodes.
